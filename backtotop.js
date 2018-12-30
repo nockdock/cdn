@@ -1,5 +1,3 @@
-// JavaScript Document
-//BackToTop
 jQuery(document).ready(function($){
 	var $ele = $(&#39;#BackToTop&#39;);
     $(window).scroll(function() {
